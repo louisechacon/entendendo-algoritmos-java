@@ -5,7 +5,7 @@ public class PrimeiroExercicio {
 
     while (baixo <= alto);
       Integer meio = lista.length / 2;
-      Integer chute = meio;
+      Integer chute = lista[meio];
 
       if (chute == item){
         return meio;
