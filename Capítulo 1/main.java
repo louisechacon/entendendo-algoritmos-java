@@ -3,7 +3,7 @@ public class PrimeiroExercicio {
     Integer baixo = 0;
     Integer alto = lista.length - 1;
 
-    while (baixo <= alto);
+    while (baixo <= alto){
       Integer meio = (baixo + alto) / 2;
       Integer chute = lista[meio];
 
@@ -16,6 +16,7 @@ public class PrimeiroExercicio {
       } else {
         baixo = meio + 1;
       }
+    }
     return null;
   }
 
