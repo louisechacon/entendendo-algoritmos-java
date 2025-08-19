@@ -1,2 +1,2 @@
 ## Pesquisa Binária
-Segui os ensinamentos do livro Entendendo Algoritmos para escrever uma pesquisa binária. Porém, utilizando Java.
+Segui os ensinamentos do livro Entendendo Algoritmos para escrever uma pesquisa binária.
