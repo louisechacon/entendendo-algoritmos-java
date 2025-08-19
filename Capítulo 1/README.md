@@ -1,2 +1,2 @@
 ## Pesquisa Binária
-Escrevi uma pesquisa binária em Java. Assim como no livro Entendendo Algoritmos, utilizei arrays.
+Segui os ensinamentos do livro Entendendo Algoritmos para escrever uma pesquisa binária. Porém, utilizando Java.
