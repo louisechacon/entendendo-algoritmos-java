@@ -8,7 +8,7 @@ public class PrimeiroExercicio {
       Integer chute = meio;
 
       if (chute == item){
-        return lista[meio];
+        return meio;
       }
 
       if (chute > item){
