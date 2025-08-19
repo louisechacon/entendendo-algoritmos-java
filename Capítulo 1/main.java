@@ -4,7 +4,7 @@ public class PrimeiroExercicio {
     Integer alto = lista.length - 1;
 
     while (baixo <= alto);
-      Integer meio = lista.length / 2;
+      Integer meio = (baixo + alto) / 2;
       Integer chute = lista[meio];
 
       if (chute == item){
