@@ -12,5 +12,5 @@ public class ContagemRegressiva {
             System.out.print("...");
             regressiva(i-1);
         }
-        }
     }
+}
