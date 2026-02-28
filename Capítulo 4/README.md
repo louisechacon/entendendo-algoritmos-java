@@ -1,8 +1,12 @@
 # Quicksort
-O capítulo 4 do livro inicia abordando que o quicksort é um algoritmo de ordenação, e que utiliza a técnica "dividir para conquistar".
+O capítulo 4 do livro inicia abordando que o quicksort é um algoritmo de ordenação, e que utiliza a técnica recursiva "dividir para conquistar".
+Alguns exercícios eu também fiz utilizando laços, para praticar e também como forma de comparar dois modos de resolução.
 
 ## Soma
-Contém uma função que soma todos os elementos de um array. Comparei dois modos de fazer: uma função simples utilizando loop, e uma função recursiva.
+Contém uma função que soma todos os elementos de um array, utlizando loop. 
+
+## SomaR
+Contém uma função recursiva que soma todos os elementos de um array.
 
 ## NumItens
 Contém uma função recursiva que conta o número de itens em uma lista.
