@@ -16,3 +16,6 @@ Contém uma função que encontra o valor mais alto em uma lista, utilizando loo
 
 ## MaiorR
 Contém uma função recursiva que encontra o valor mais alto em uma lista.
+
+## Quicksort
+Contém o código para o quicksort: caso base (arrays com 0 ou 1 elemento já estão "ordenados"); caso recursivo; subarray de todos os elementos menores do que o pivô; e subarray de todos os elementos maiores do que o pivô.
